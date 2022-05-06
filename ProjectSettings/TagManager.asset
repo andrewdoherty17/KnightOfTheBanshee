@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - FallDeath
+  - Checkpoint
+  - Finish2
+  - Coins
+  - Lives
+  - Breakable
+  - Heart
+  - FinishGame
+  - EnemyWallLeft
+  - EnemyWallRight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - DeathFall
+  - Breakable
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 648510705
+    locked: 0
+  - name: Foreground
+    uniqueID: 557595243
+    locked: 0
+  - name: Player
+    uniqueID: 1003334333
+    locked: 0
+  - name: Ground
+    uniqueID: 3280173331
+    locked: 0
+  - name: UI
+    uniqueID: 2540693203
+    locked: 0
+  - name: 
+    uniqueID: 2140782399
+    locked: 0
+  - name: New Layer
+    uniqueID: 3606151551
+    locked: 0
